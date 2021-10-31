@@ -3,12 +3,8 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+This is an image of a cool dude. I drew him in Paint because I didn't feel like screenshotting a project.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+Hopefully this proves my ability to add an image to the repository.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Awesome dude](./assets/Untitled.png)
